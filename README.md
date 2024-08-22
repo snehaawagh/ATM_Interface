@@ -21,7 +21,7 @@ This project is a simple Python-based simulation of an ATM machine. It allows us
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/atm-machine-simulation.git
+    git clone https://github.com/snehaawagh/atm-machine-simulation.git
     ```
 2. Navigate to the project directory:
     ```bash
